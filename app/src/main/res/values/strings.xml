@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="today">Today</string>
+    <string name="Search">Search</string>
+    <string name="Search_for_a_city">Search for a city…</string>
+    <string name="Clock">Clock</string>
+    <string name="List">List</string>
+    <string name="Settings">Settings</string>
+    <string name="AM">AM</string>
+    <string name="PM">PM</string>
+    <string name="Add_city">Add city</string>
+    <string name="Today">Today</string>
+    <string name="Tomorrow">Tomorrow</string>
+    <string name="Yesterday">Yesterday</string>
+    <string name="Search_Cities">Search Cities</string>
+    <string name="Add_Clock">Add Clock</string>
+    <string name="Delete_Clock">Delete Clock</string>
+</resources>
