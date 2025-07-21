@@ -10,6 +10,10 @@ Shamelessly uses the awesome design by Omar Faizan, which can be found
 [here](https://www.behance.net/gallery/81438769/World-Clock-App) and
 [here](https://dribbble.com/shots/6559878-World-Clock-App-Kit).
 
+<img width="40%" src="https://github.com/user-attachments/assets/41ae2544-55d8-4ee0-a576-1ca5b27dfe1f" />
+<img width="40%" src="https://github.com/user-attachments/assets/236056d8-4761-45f8-a03a-553ad6e2ea10" />
+
+
 ## APIs
 
 ### City Geocoding API here
