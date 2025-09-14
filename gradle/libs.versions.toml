@@ -3,22 +3,22 @@ agp = "8.10.1"
 
 # https://kotlinlang.org/docs/releases.html#release-details
 # https://github.com/google/ksp/releases
-kotlin = "2.2.0"
-ksp = "2.2.0-2.0.2"
+kotlin = "2.2.20"
+ksp = "2.2.20-2.0.3"
 
-coreKtx = "1.16.0"
-lifecycleRuntimeKtx = "2.9.1"
-activityCompose = "1.10.1"
-composeBom = "2025.06.01"
+coreKtx = "1.17.0"
+lifecycleRuntimeKtx = "2.9.3"
+activityCompose = "1.11.0"
+composeBom = "2025.09.00"
 
 # https://github.com/coil-kt/coil/releases
 coil = "3.2.0"
 
 # https://developer.android.com/jetpack/androidx/releases/room
-room = "2.7.2"
+room = "2.8.0"
 
 # https://github.com/ktorio/ktor/releases
-ktor = "3.2.1"
+ktor = "3.2.3"
 
 # https://github.com/Kotlin/kotlinx-datetime/releases
 # https://github.com/yoxjames/Kastro/issues/3#issuecomment-3071656262
@@ -37,8 +37,8 @@ geojson = "0.2.0"
 kastro = "0.4.0"
 
 junit = "4.13.2"
-junitVersion = "1.2.1"
-espressoCore = "3.6.1"
+junitVersion = "1.3.0"
+espressoCore = "3.7.0"
 
 [libraries]
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
